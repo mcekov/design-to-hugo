@@ -1,1 +1,1 @@
-# design-to-hugo
+# hugo-custom-theme
