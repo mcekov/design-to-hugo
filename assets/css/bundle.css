@@ -1,4 +1,7 @@
 /* COMMON */
+.header a {
+  text-decoration: none; }
+
 /* END COMMON */
 /* HOME */
 /* @import "partials/home/header.scss";
