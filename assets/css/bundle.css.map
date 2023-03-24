@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAEA,YAAY;ACFZ,SAAU;EACR,eAAe,EAAE,IAAI;EACrB,KAAK,EAAE,KAAK;;ADGd,gBAAgB;AAEhB,UAAU;AACV;uCACuC;AACvC,cAAc",
-"sources": ["../scss/main.scss","../scss/partials/common/header.scss"],
+"mappings": "AAAA,CAAE;EACA,eAAe,EAAE,IAAI;;ACEvB,YAAY;ACHZ,OAAQ;EACN,KAAK,EAAE,KAAK;EAEZ,WAAW,EAAE,OAAO;EACpB,WAAW,EAAE,GAAG;;ADElB,gBAAgB;AAEhB,UAAU;AACV;uCACuC;AACvC,cAAc",
+"sources": ["../scss/global.scss","../scss/main.scss","../scss/partials/common/header.scss"],
 "names": [],
 "file": "bundle.css"
 }
